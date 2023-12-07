@@ -3,3 +3,11 @@ logo: /assets/img/circle_logo.png
 description: Data Enthusiast
 show_downloads: true
 theme: jekyll-theme-minimal
+url: "https://kingki19.github.io"
+author: Muhammad Rizqi
+email: mrizqi6061@gmail.com
+social:
+  - title: GitHub
+    url: https://github.com/kingki19
+  - title: Kaggle
+    url: https://www.kaggle.com/kingki19
