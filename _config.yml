@@ -10,7 +10,7 @@ author: Muhammad Rizqi
 email: mrizqi6061@gmail.com
 social-network-links:
   email: "mrizqi6061@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
   github: Kingki19
   #twitter: daattali
   #patreon: DeanAttali
