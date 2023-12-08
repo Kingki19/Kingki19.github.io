@@ -2,44 +2,16 @@ title: Muhammad Rizqi (Kingki19)
 logo: /assets/img/circle_logo.png
 description: >
   <p>An enthusiastic people who learn about data science. Capable of doing data manipulation, modelling, data visualization using Python. Have experience in conducting Natural Language Processing (NLP) and Time-Series Analysis.</p>
-  <p>Connect with me:1</p>
+  <p>Connect with me:</p>
+  <ul>
+    <li> 
+      <a href="https://github.com/Kingki19">
+        <img src="https://img.shields.io/badge/GitHub-Kingki19-blue?logo=github" alt="GitHub">
+      </a>
+    </li>
+  </ul>
 show_downloads: true
 theme: jekyll-theme-minimal
 url: "https://kingki19.github.io"
 author: Muhammad Rizqi
 email: mrizqi6061@gmail.com
-social-network-links:
-  email: "mrizqi6061@gmail.com"
-  rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  #github: Kingki19
-  #twitter: daattali
-  #patreon: DeanAttali
-  #youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-  linkedin: muhammad-rizqi-921538248
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
