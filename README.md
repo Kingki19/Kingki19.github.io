@@ -51,12 +51,14 @@
 
 <div>
   <h2 id="contact"> Contact Me </h2> 
-  <ul>
-    <li>
-      <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
-      : <a href="https://www.kaggle.com/kingki19"> Kingki19 / Muhammad Rizqi </a>
-    </li>
-  </ul> 
+    <center>
+      <a href="https://www.kaggle.com/kingki19">
+        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
+      </a>
+      <a href="www.linkedin.com/in/muhammad-rizqi-921538248">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </center>
   <p><b><a href="#top">Back to top</a></b></p>
 </div>
 <hr>
