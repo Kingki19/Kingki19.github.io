@@ -68,3 +68,25 @@
   <p><b><a href="#top">Back to top</a></b></p>
 </div>
 <hr>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nama</th>
+      <th>Usia</th>
+      <th>Kota</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>John Doe</td>
+      <td>25</td>
+      <td>New York</td>
+    </tr>
+    <tr>
+      <td>Jane Smith</td>
+      <td>30</td>
+      <td>Los Angeles</td>
+    </tr>
+  </tbody>
+</table>
