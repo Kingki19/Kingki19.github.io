@@ -50,7 +50,39 @@
 <!-- My education history and certificate i have achieved -->
 <div>
   <h2 id="education"> Education and Certification </h2> 
-  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Quis eleifend quam adipiscing vitae. Sollicitudin ac orci phasellus egestas tellus rutrum. Cursus sit amet dictum sit amet justo donec enim diam. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Sem nulla pharetra diam sit amet nisl. Ipsum dolor sit amet consectetur. Fermentum odio eu feugiat pretium. Convallis a cras semper auctor neque vitae. Nam aliquam sem et tortor consequat id porta nibh. Varius quam quisque id diam vel quam elementum pulvinar. Sagittis id consectetur purus ut. Volutpat diam ut venenatis tellus in metus vulputate. Tincidunt dui ut ornare lectus. Enim nunc faucibus a pellentesque. Ultricies integer quis auctor elit sed vulputate. </p>
+  <!-- Education -->
+  <details open>
+    <summary> <h3> Education </h3> </summary>
+    <table>
+      <!-- head -->
+      <thead>
+        <tr>
+          <th>Education Level</th>
+          <th>Institution</th>
+          <th>Year Started</th>
+          <th>Year Graduated</th>
+          <th>Major/Field of Study</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- MTs -->
+        <tr>
+          <td>Junior high school</td>
+          <td><a href='http://mtsn1kudus.sch.id/'>MTsN 1 Kudus</a></td>
+          <td>2016</td>
+          <td>2019</td>
+          <td>-</td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+  <!-- Certification -->
+  <details open>
+    <summary> <h3> Certification </h3> </summary>
+    <ul>
+      <li><a href=""> Tes </a></li>
+    </ul>
+  </details>
   <p><b><a href="#top">Back to top</a></b></p>
 </div>
 <hr>
@@ -99,9 +131,4 @@
   </tbody>
 </table>
 
-<details>
-  <summary>Klik untuk membuka/tutup</summary>
-  <p>Isi konten yang dapat dibuka atau ditutup di sini.</p>
-  <!-- Anda dapat menambahkan HTML biasa di sini -->
-  <p>Ini adalah paragraf dalam toggle.</p>
-</details>
+
