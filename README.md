@@ -52,11 +52,14 @@
 <div>
   <h2 id="contact"> Contact Me </h2> 
     <center>
-      <a href="https://www.kaggle.com/kingki19">
+      <a href="https://www.kaggle.com/kingki19" target="_blank">
         <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
       </a>
       <a href="www.linkedin.com/in/muhammad-rizqi-921538248">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mrizqi6061@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
     </center>
   <p><b><a href="#top">Back to top</a></b></p>
