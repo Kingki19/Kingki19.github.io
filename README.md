@@ -52,10 +52,10 @@
 <div>
   <h2 id="contact"> Contact Me </h2> 
 
-- Tes
-- tes2
-- Tes3
-## 32
+  - Tes
+  - tes2
+  - Tes3
+  ## 32
   
   <p><b><a href="#top">Back to top</a></b></p>
 </div>
