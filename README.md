@@ -51,12 +51,12 @@
 
 <div>
   <h2 id="contact"> Contact Me </h2> 
-
-  - Tes
-  - tes2
-  - Tes3
-  ## 32
-  
+  <ul>
+    <li>
+      <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
+      : <a href="https://www.kaggle.com/kingki19"> Kingki19 / Muhammad Rizqi </a>
+    </li>
+  </ul> 
   <p><b><a href="#top">Back to top</a></b></p>
 </div>
 <hr>
