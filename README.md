@@ -8,7 +8,7 @@
     <li><a href="#portfolio"> Portfolio </a></li>
     <li><a href="#blog"> Blog </a></li>
     <li><a href="#skills"> Skills </a></li>
-    <li><a href="#education"> Education and Certification </a></li>
+    <li><a href="#education"> Work Experiences, Education, and Certification </a></li>
     <li><a href="#contact"> Contact Me </a></li>
   </ul>
 </div>
@@ -26,8 +26,36 @@
 <!-- Portfolio and data-related projects -->
 <div>
   <h2 id="portfolio"> Portfolio </h2> 
-  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Quis eleifend quam adipiscing vitae. Sollicitudin ac orci phasellus egestas tellus rutrum. Cursus sit amet dictum sit amet justo donec enim diam. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Sem nulla pharetra diam sit amet nisl. Ipsum dolor sit amet consectetur. Fermentum odio eu feugiat pretium. Convallis a cras semper auctor neque vitae. Nam aliquam sem et tortor consequat id porta nibh. Varius quam quisque id diam vel quam elementum pulvinar. Sagittis id consectetur purus ut. Volutpat diam ut venenatis tellus in metus vulputate. Tincidunt dui ut ornare lectus. Enim nunc faucibus a pellentesque. Ultricies integer quis auctor elit sed vulputate. </p>
-  <p><b><a href="#top">Back to top</a></b></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Name of Project</th>
+        <th>Description</th>
+        <th>Skills i've achieved</th>      
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Feynman Einsteinia GPT-prompt</td>
+        <td>
+          <details>
+            <summary>Description</summary>
+            The prompt that I made is to carry out the understanding process from simple to complex level. Even though this is not related to data, it trains my ability to understand complex LLMs and do prompting. Apart from that, I use chatGPT as a mentor, teacher, and discussion friend when I learn about data.
+          </details>
+        </td>
+        <td>
+          <details>
+            <summary>Skills</summary>
+            <ul>
+              <li>LLM prompting</li>
+              <li>Understanding of LLM</li>
+              <li>Utilization of chatGPT as a free learning medium</li>
+            </ul>
+          </details>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 <hr>
 
