@@ -58,7 +58,7 @@
       </tr>
       <!-- Last project from statistic -->
       <tr>
-        <td> <a href="https://www.kaggle.com/code/kingki19/tugas-akhir-statistika"> Implementing XGBoost on "Spaceship Titanic" Dataset to Predict Passenger Transport Condition </td>
+        <td> <a href="https://www.kaggle.com/code/kingki19/tugas-akhir-statistika"> Implementing XGBoost on "Spaceship Titanic" Dataset to Predict Passenger Transport Condition </a></td>
         <td>
           <details>
             <summary>Description</summary>
