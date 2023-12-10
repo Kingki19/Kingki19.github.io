@@ -35,12 +35,11 @@
 <div>
   <h2 id="blog"> Blog </h2> 
   <ul>
-    <li> <div style="display: flex; align-items: center;"> 
+    <li>
       <a href = "https://medium.com/@mrizqi6061/how-i-generate-llm-generated-text-dataset-using-palm-google-generative-ai-in-google-colab-458c7797a5ac">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tiVIWxCaMWQI7agecQ40KA.png" alt="Gambar 1" style="max-width: 100px; margin-right: 20px;">
         <p> How I Generate LLM-Generated Text Dataset Using PaLM Google Generative-AI in Google Colab </p>
       </a> 
-    </div> </li>
+    </li>
   </ul>
   <p><b><a href="#top">Back to top</a></b></p>
 </div>
@@ -56,7 +55,11 @@
 
 <!-- My education history and certificate i have achieved -->
 <div>
-  <h2 id="education"> Education and Certification </h2> 
+  <h2 id="education"> Work Experiences, Education, and Certification </h2>
+  <details> 
+    <summary> <h3> Work Experiences </h3> </summary>
+    <p><i>Still don't have it yet</i></p>
+  </details>
   <!-- Education -->
   <details open>
     <summary> <h3> Education </h3> </summary>
@@ -79,6 +82,22 @@
           <td>2016</td>
           <td>2019</td>
           <td>-</td>
+        </tr>
+        <!-- SMA -->
+        <tr>
+          <td>Senior high school</td>
+          <td><a href='https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/a69c65b5-63f8-449d-8a9c-a2a00324c4bb'>SMAN 1 Kudus</a></td>
+          <td>2019</td>
+          <td>2022</td>
+          <td>mathematics and science</td>
+        </tr>
+        <!-- UNNES -->
+        <tr>
+          <td>University</td>
+          <td><a href='https://unnes.ac.id/beranda/'>Universitas Negeri Semarang</a></td>
+          <td>2022</td>
+          <td>Still ongoing</td>
+          <td>Computer Science - Information System</td>
         </tr>
       </tbody>
     </table>
