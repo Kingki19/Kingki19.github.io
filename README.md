@@ -37,7 +37,7 @@
   <ul>
     <li>
       <a href = "https://medium.com/@mrizqi6061/how-i-generate-llm-generated-text-dataset-using-palm-google-generative-ai-in-google-colab-458c7797a5ac">
-        <p> How I Generate LLM-Generated Text Dataset Using PaLM Google Generative-AI in Google Colab </p>
+        <p> How I Generate LLM-Generated Text Dataset Using PaLM Google Generative-AI in Google Colab (Medium) </p>
       </a> 
     </li>
   </ul>
