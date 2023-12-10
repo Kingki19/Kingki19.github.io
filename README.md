@@ -34,7 +34,14 @@
 <!-- Articles, tutorial, or something i have made -->
 <div>
   <h2 id="blog"> Blog </h2> 
-  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Quis eleifend quam adipiscing vitae. Sollicitudin ac orci phasellus egestas tellus rutrum. Cursus sit amet dictum sit amet justo donec enim diam. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Sem nulla pharetra diam sit amet nisl. Ipsum dolor sit amet consectetur. Fermentum odio eu feugiat pretium. Convallis a cras semper auctor neque vitae. Nam aliquam sem et tortor consequat id porta nibh. Varius quam quisque id diam vel quam elementum pulvinar. Sagittis id consectetur purus ut. Volutpat diam ut venenatis tellus in metus vulputate. Tincidunt dui ut ornare lectus. Enim nunc faucibus a pellentesque. Ultricies integer quis auctor elit sed vulputate. </p>
+  <ul>
+    <li> <div> 
+      <a href = "https://medium.com/@mrizqi6061/how-i-generate-llm-generated-text-dataset-using-palm-google-generative-ai-in-google-colab-458c7797a5ac">
+        <h3> How I Generate LLM-Generated Text Dataset Using PaLM Google Generative-AI in Google Colab </h3>
+        <p> Unveiling the Steps: Creating an LLM-Generated Text Dataset with PaLM Google Generative-AI in Google Colab </p>
+      </a> 
+    </div> </li>
+  </ul>
   <p><b><a href="#top">Back to top</a></b></p>
 </div>
 <hr>
