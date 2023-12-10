@@ -36,7 +36,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>Feynman Einsteinia GPT-prompt</td>
+        <td><a href="https://github.com/Kingki19/Feynman-Einstenia-GPTprompt">Feynman Einsteinia GPT-prompt</a></td>
         <td>
           <details>
             <summary>Description</summary>
