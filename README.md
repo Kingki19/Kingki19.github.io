@@ -35,10 +35,10 @@
 <div>
   <h2 id="blog"> Blog </h2> 
   <ul>
-    <li> <div> 
+    <li> <div style="display: flex; align-items: center;"> 
       <a href = "https://medium.com/@mrizqi6061/how-i-generate-llm-generated-text-dataset-using-palm-google-generative-ai-in-google-colab-458c7797a5ac">
-        <h3> How I Generate LLM-Generated Text Dataset Using PaLM Google Generative-AI in Google Colab </h3>
-        Unveiling the Steps: Creating an LLM-Generated Text Dataset with PaLM Google Generative-AI in Google Colab
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tiVIWxCaMWQI7agecQ40KA.png" alt="Gambar 1" style="max-width: 100px; margin-right: 20px;">
+        <h3 style="margin: 0;"> How I Generate LLM-Generated Text Dataset Using PaLM Google Generative-AI in Google Colab </h3>
       </a> 
     </div> </li>
   </ul>
