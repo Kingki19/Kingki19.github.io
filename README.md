@@ -27,14 +27,16 @@
 <div>
   <h2 id="portfolio"> Portfolio </h2> 
   <table>
+    <!-- Head -->
     <thead>
       <tr>
-        <th>Name of Project</th>
+        <th>Collection of projects</th>
         <th>Description</th>
         <th>Skills i've achieved</th>      
       </tr>
     </thead>
     <tbody>
+      <!-- Feynman-Einstenia GPTprompt -->
       <tr>
         <td><a href="https://github.com/Kingki19/Feynman-Einstenia-GPTprompt">Feynman Einsteinia GPT-prompt</a></td>
         <td>
@@ -50,6 +52,27 @@
               <li>LLM prompting</li>
               <li>Understanding of LLM</li>
               <li>Utilization of chatGPT as a free learning medium</li>
+            </ul>
+          </details>
+        </td>
+      </tr>
+      <!-- Last project from statistic -->
+      <tr>
+        <td> <a href="https://www.kaggle.com/code/kingki19/tugas-akhir-statistika"> Implementing XGBoost on "Spaceship Titanic" Dataset to Predict Passenger Transport Condition </td>
+        <td>
+          <details>
+            <summary>Description</summary>
+            Final assignment in statistics course. I did it with my friend. Students were assigned to choose an assignment and we chose to create machine learning by participating in a competition for ML beginners on Kaggle. <a href="https://www.kaggle.com/competitions/spaceship-titanic">The competition is spaceship-titanic</a>. This is the first machine learning I created.
+          </details>
+        </td>
+        <td>
+          <details>
+            <summary>Skills</summary>
+            <ul>
+              <li>Statistics Analytics</li>
+              <li>Data Analysis</li>
+              <li>Regression Machine Learning</li>
+              <li>Python (Programming Language)</li>
             </ul>
           </details>
         </td>
