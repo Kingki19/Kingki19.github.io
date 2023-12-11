@@ -112,6 +112,36 @@
         </td>
       </tr>
       <!--
+      DSI Playground - Harga Pangan
+      -->
+      <tr>
+        <td> <a href="https://www.kaggle.com/code/kingki19/dsi-playground-harga-pangan/notebook"> Forecasting food prices in Indonesia for the next 3 months </a>
+        </td>
+        <td>
+          <details>
+            <summary>Description</summary>
+            Secured 1st place in <a href="https://www.kaggle.com/competitions/data-science-playground-harga-pangan-final">Data Science Indonesia Kaggle competition</a>, triumphing in a solo endeavor to forecast essential commodity prices across Indonesian provinces over a three-month period. Achievements include mastering time series analysis, implementing advanced forecasting models (ARIMA and SARIMA), and utilizing the Panel library for interactive data visualization. Key takeaways involve rapid knowledge acquisition in just two months, embracing challenges as learning opportunities, and successful self-learning through free resources. Gratitude extended to Data Science Indonesia for organizing the competition, with excitement to continue the data science journey and tackle more challenges.
+          </details>
+        </td>
+        <td>
+          <details>
+            <summary>Skills</summary>
+            <ul>
+              <li>Time series analysis</li>
+              <li>Forecasting essential commodity prices</li>
+              <li>Implementation of forecasting models (ARIMA and SARIMA)</li>
+              <li>Utilization of the Panel library for interactive data visualization</li>
+              <li>Data preprocessing for Kaggle competition</li>
+              <li>Statistical analysis of commodity prices</li>
+              <li>Application of machine learning techniques to real-world data</li>
+              <li>Independent problem-solving in a solo endeavor</li>
+              <li>Rapid knowledge acquisition in a short timeframe</li>
+              <li>Adaptability to challenges and turning them into learning opportunities</li>
+            </ul>
+          </details>
+        </td>
+      </tr>
+      <!--
       Proyek selanjutnya
       -->
     </tbody>
