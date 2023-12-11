@@ -56,9 +56,12 @@
           </details>
         </td>
       </tr>
-      <!-- Last project from statistic -->
+      <!-- 
+      Last project from statistic 
+      -->
       <tr>
-        <td> <a href="https://www.kaggle.com/code/kingki19/tugas-akhir-statistika"> Implementing XGBoost on "Spaceship Titanic" Dataset to Predict Passenger Transport Condition </a></td>
+        <td> <a href="https://www.kaggle.com/code/kingki19/tugas-akhir-statistika"> Implementing XGBoost on "Spaceship Titanic" Dataset to Predict Passenger Transport Condition </a>
+        </td>
         <td>
           <details>
             <summary>Description</summary>
@@ -77,6 +80,40 @@
           </details>
         </td>
       </tr>
+      <!--
+      Gemastik Data Mining 2023
+      -->
+      <tr>
+        <td>
+          <a href="https://github.com/Kingki19/We-and-techa-Gemastik-Data-mining-2023"> Pembangunan Model Analisis Sentimen Penerimaan AI pada Masyarakat melalui Komentar di Youtube </a>
+        </td>
+        <td>
+          <details>
+            <summary>Description</summary>        
+            This project involves conducting sentiment analysis on public opinions regarding AI adoption in Indonesia, using YouTube comments. Ensemble learning techniques were employed to train the model. Data was translated into English using GoogleTrans library, and automatic labeling was done with the Twitter-RoBERTa-Base-Sentiment-Latest model. TF-IDF and word embeddings were used for data extraction, and models were built with algorithms like Naive-Bayes, SVM, KNN, and Gradient Boosting. Results revealed that TF-IDF extraction outperformed word embeddings, with the Gradient Boosting algorithm being the most effective. Despite these findings, the project did not succeed, as the focus on creating an optimal model deviated from the essence of data mining, which involves extracting insights from data. This realization came after a deeper understanding of the nature of data mining.
+          </details>
+        </td>
+        <td>
+          <details>
+            <summary>Skills</summary>
+            <ul>
+              <li>Sentiment analysis</li>
+              <li>Ensemble learning techniques</li>
+              <li>Data translation using GoogleTrans library</li>
+              <li>Automatic labeling with Twitter-RoBERTa-Base-Sentiment-Latest model</li>
+              <li>Data extraction using TF-IDF and word embeddings</li>
+              <li>Model construction with Naive-Bayes, SVM, KNN, and Gradient Boosting algorithms</li>
+              <li>Comparison of extraction methods and algorithms</li>
+              <li>Interpretation of model results</li>
+              <li>Reflection on project outcomes and identifying flaws</li>
+              <li>Understanding the essence of data mining</li>
+            </ul>
+          </details>
+        </td>
+      </tr>
+      <!--
+      Proyek selanjutnya
+      -->
     </tbody>
   </table>
 </div>
@@ -153,6 +190,7 @@
       </tbody>
     </table>
   </details>
+  
   <!-- Certification -->
   <details open>
     <summary> <h3> Certification </h3> </summary>
