@@ -38,7 +38,7 @@
     <tbody>
       <!-- Feynman-Einstenia GPTprompt -->
       <tr>
-        <td><a href="https://github.com/Kingki19/Feynman-Einstenia-GPTprompt">Feynman Einsteinia GPT-prompt</a></td>
+        <td><a href="https://github.com/Kingki19/Feynman-Einstenia-GPTprompt" target="_blank">Feynman Einsteinia GPT-prompt</a></td>
         <td>
           <details>
             <summary>Description</summary>
@@ -60,12 +60,12 @@
 Last project from statistic 
       -->
       <tr>
-        <td> <a href="https://www.kaggle.com/code/kingki19/tugas-akhir-statistika"> Implementing XGBoost on "Spaceship Titanic" Dataset to Predict Passenger Transport Condition </a>
+        <td> <a href="https://www.kaggle.com/code/kingki19/tugas-akhir-statistika" target="_blank"> Implementing XGBoost on "Spaceship Titanic" Dataset to Predict Passenger Transport Condition </a>
         </td>
         <td>
           <details>
             <summary>Description</summary>
-            Final assignment in statistics course. I did it with my friend. Students were assigned to choose an assignment and we chose to create machine learning by participating in a competition for ML beginners on Kaggle. <a href="https://www.kaggle.com/competitions/spaceship-titanic">The competition is spaceship-titanic</a>. This is the first machine learning I created.
+            Final assignment in statistics course. I did it with my friend. Students were assigned to choose an assignment and we chose to create machine learning by participating in a competition for ML beginners on Kaggle. <a href="https://www.kaggle.com/competitions/spaceship-titanic" target="_blank">The competition is spaceship-titanic</a>. This is the first machine learning I created.
           </details>
         </td>
         <td>
@@ -85,7 +85,7 @@ Gemastik Data Mining 2023
       -->
       <tr>
         <td>
-          <a href="https://github.com/Kingki19/We-and-techa-Gemastik-Data-mining-2023"> Pembangunan Model Analisis Sentimen Penerimaan AI pada Masyarakat melalui Komentar di Youtube </a>
+          <a href="https://github.com/Kingki19/We-and-techa-Gemastik-Data-mining-2023" target="_blank"> Pembangunan Model Analisis Sentimen Penerimaan AI pada Masyarakat melalui Komentar di Youtube </a>
         </td>
         <td>
           <details>
@@ -115,12 +115,12 @@ Gemastik Data Mining 2023
 DSI Playground - Harga Pangan
       -->
       <tr>
-        <td> <a href="https://www.kaggle.com/code/kingki19/dsi-playground-harga-pangan/notebook"> Forecasting Foods Prices in Indonesia for the next 3 Months </a>
+        <td> <a href="https://www.kaggle.com/code/kingki19/dsi-playground-harga-pangan/notebook" target="_blank"> Forecasting Foods Prices in Indonesia for the next 3 Months </a>
         </td>
         <td>
           <details>
             <summary>Description</summary>
-            Secured 1st place in <a href="https://www.kaggle.com/competitions/data-science-playground-harga-pangan-final">Data Science Indonesia Kaggle competition</a>, triumphing in a solo endeavor to forecast essential commodity prices across Indonesian provinces over a three-month period. Achievements include mastering time series analysis, implementing advanced forecasting models (ARIMA and SARIMA), and utilizing the Panel library for interactive data visualization. Key takeaways involve rapid knowledge acquisition in just two months, embracing challenges as learning opportunities, and successful self-learning through free resources. Gratitude extended to Data Science Indonesia for organizing the competition, with excitement to continue the data science journey and tackle more challenges.
+            Secured 1st place in <a href="https://www.kaggle.com/competitions/data-science-playground-harga-pangan-final" target="_blank">Data Science Indonesia Kaggle competition</a>, triumphing in a solo endeavor to forecast essential commodity prices across Indonesian provinces over a three-month period. Achievements include mastering time series analysis, implementing advanced forecasting models (ARIMA and SARIMA), and utilizing the Panel library for interactive data visualization. Key takeaways involve rapid knowledge acquisition in just two months, embracing challenges as learning opportunities, and successful self-learning through free resources. Gratitude extended to Data Science Indonesia for organizing the competition, with excitement to continue the data science journey and tackle more challenges.
           </details>
         </td>
         <td>
@@ -145,7 +145,7 @@ DSI Playground - Harga Pangan
 Streamlit app visualization for Foods Prices Data in Indonesia
       -->
       <tr>
-        <td> <a href="https://www.kaggle.com/code/kingki19/dsi-playground-harga-pangan/notebook"> Visualization for Foods Prices Data in Indonesia using Streamlit App with Linear Graph Forecasting </a>
+        <td> <a href="https://www.kaggle.com/code/kingki19/dsi-playground-harga-pangan/notebook" target="_blank"> Visualization for Foods Prices Data in Indonesia using Streamlit App with Linear Graph Forecasting </a>
         </td>
         <td>
           <details>
@@ -185,7 +185,7 @@ Streamlit app visualization for Foods Prices Data in Indonesia
   <h2 id="blog"> Blog </h2> 
   <ul>
     <li>
-      <a href = "https://medium.com/@mrizqi6061/how-i-generate-llm-generated-text-dataset-using-palm-google-generative-ai-in-google-colab-458c7797a5ac">
+      <a href = "https://medium.com/@mrizqi6061/how-i-generate-llm-generated-text-dataset-using-palm-google-generative-ai-in-google-colab-458c7797a5ac" target="_blank">
         <p> How I Generate LLM-Generated Text Dataset Using PaLM Google Generative-AI in Google Colab (Medium) </p>
       </a> 
     </li>
@@ -226,7 +226,7 @@ Streamlit app visualization for Foods Prices Data in Indonesia
       <tbody>
         <tr>
           <td>Elementary School</td>
-          <td><a href="https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/a074bf58-c4d7-e111-9ec1-e13df39ddeb9">SDIT AL AKHYAR</a></td>
+          <td><a href="https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/a074bf58-c4d7-e111-9ec1-e13df39ddeb9" target="_blank">SDIT AL AKHYAR</a></td>
           <td>2010</td>
           <td>2016</td>
           <td>-</td>
@@ -234,7 +234,7 @@ Streamlit app visualization for Foods Prices Data in Indonesia
         <!-- MTs -->
         <tr>
           <td>Junior high school</td>
-          <td><a href='http://mtsn1kudus.sch.id/'>MTsN 1 Kudus</a></td>
+          <td><a href='http://mtsn1kudus.sch.id/' target="_blank">MTsN 1 Kudus</a></td>
           <td>2016</td>
           <td>2019</td>
           <td>-</td>
@@ -242,7 +242,7 @@ Streamlit app visualization for Foods Prices Data in Indonesia
         <!-- SMA -->
         <tr>
           <td>Senior high school</td>
-          <td><a href='https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/a69c65b5-63f8-449d-8a9c-a2a00324c4bb'>SMAN 1 Kudus</a></td>
+          <td><a href='https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/a69c65b5-63f8-449d-8a9c-a2a00324c4bb' target="_blank">SMAN 1 Kudus</a></td>
           <td>2019</td>
           <td>2022</td>
           <td>Mathematics and Science</td>
@@ -250,7 +250,7 @@ Streamlit app visualization for Foods Prices Data in Indonesia
         <!-- UNNES -->
         <tr>
           <td>University</td>
-          <td><a href='https://unnes.ac.id/beranda/'>Universitas Negeri Semarang</a></td>
+          <td><a href='https://unnes.ac.id/beranda/' target="_blank">Universitas Negeri Semarang</a></td>
           <td>2022</td>
           <td>Still ongoing</td>
           <td>Computer Science - Information System</td>
@@ -262,6 +262,7 @@ Streamlit app visualization for Foods Prices Data in Indonesia
   <!-- Certification -->
   <details open>
     <summary> <h3> Certification </h3> </summary>
+    <p>Belum dibuat</p>
     <ul>
       <li><a href=""> Tes </a></li>
     </ul>
