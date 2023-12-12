@@ -176,6 +176,7 @@ Streamlit app visualization for Foods Prices Data in Indonesia
       -->
     </tbody>
   </table>
+  <p><b><a href="#top">Back to top</a></b></p>
 </div>
 <hr>
 
