@@ -198,6 +198,16 @@ Streamlit app visualization for Foods Prices Data in Indonesia
       -->
     </tbody>
   </table>
+  <h3>Publications</h3>
+  <ul>
+    <li>
+      <h4><a href="https://repository.penerbiteureka.com/publications/564966/bunga-rampai-pemanfaatan-sistem-smart-campus-untuk-optimalisasi-pendidikan-tingg#id-section-title">Bunga Rampai Pemanfaatan Sistem Smart Campus untuk Optimalisasi Pendidikan Tinggi Mandiri</a></h4>
+      <details>
+        <summary> Description </summary>
+        I actively contributed to a publication focused on the intersection of modern technology in educational institutions. Specifically, I served as the second author for the article titled "Implementation and Management of Data Centers in Higher Education." This publication, crafted in Bahasa Indonesia, delves into pertinent insights and practices related to the deployment and administration of data centers within the higher education sector. The collaborative effort aims to provide a comprehensive resource for readers seeking valuable perspectives on the strategic integration of technology in academic environments.
+      </details> 
+    </li>
+  </ul>
   <p><b><a href="#top">Back to top</a></b></p>
 </div>
 <hr>
@@ -215,6 +225,7 @@ Streamlit app visualization for Foods Prices Data in Indonesia
   <p><b><a href="#top">Back to top</a></b></p>
 </div>
 <hr>
+
 
 <!-- Skills i have achieved -->
 <div>
