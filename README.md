@@ -224,6 +224,13 @@ Streamlit app visualization for Foods Prices Data in Indonesia
         </tr>
       </thead>
       <tbody>
+        <tr>
+          <td>Elementary School</td>
+          <td><a href="https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/a074bf58-c4d7-e111-9ec1-e13df39ddeb9">SDIT AL AKHYAR</a></td>
+          <td>2010</td>
+          <td>2016</td>
+          <td>-</td>
+        </tr>
         <!-- MTs -->
         <tr>
           <td>Junior high school</td>
@@ -288,6 +295,7 @@ Streamlit app visualization for Foods Prices Data in Indonesia
 <hr>
 
 <!-- Tes -->
+<p>Abaikan ini, cuman buat debug dan cek:</p>
 <table>
   <thead>
     <tr>
