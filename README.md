@@ -57,7 +57,7 @@
         </td>
       </tr>
       <!-- 
-      Last project from statistic 
+Last project from statistic 
       -->
       <tr>
         <td> <a href="https://www.kaggle.com/code/kingki19/tugas-akhir-statistika"> Implementing XGBoost on "Spaceship Titanic" Dataset to Predict Passenger Transport Condition </a>
@@ -81,7 +81,7 @@
         </td>
       </tr>
       <!--
-      Gemastik Data Mining 2023
+Gemastik Data Mining 2023
       -->
       <tr>
         <td>
@@ -112,10 +112,10 @@
         </td>
       </tr>
       <!--
-      DSI Playground - Harga Pangan
+DSI Playground - Harga Pangan
       -->
       <tr>
-        <td> <a href="https://www.kaggle.com/code/kingki19/dsi-playground-harga-pangan/notebook"> Forecasting food prices in Indonesia for the next 3 months </a>
+        <td> <a href="https://www.kaggle.com/code/kingki19/dsi-playground-harga-pangan/notebook"> Forecasting Foods Prices in Indonesia for the next 3 Months </a>
         </td>
         <td>
           <details>
@@ -138,6 +138,36 @@
               <li>Rapid knowledge acquisition in a short timeframe</li>
               <li>Adaptability to challenges and turning them into learning opportunities</li>
             </ul>
+          </details>
+        </td>
+      </tr>
+      <!--
+Streamlit app visualization for Foods Prices Data in Indonesia
+      -->
+      <tr>
+        <td> <a href="https://www.kaggle.com/code/kingki19/dsi-playground-harga-pangan/notebook"> Visualization for Foods Prices Data in Indonesia using Streamlit App with Linear Graph Forecasting </a>
+        </td>
+        <td>
+          <details>
+            <summary>Description</summary>
+            This project, titled "Visualization for Foods Prices Data in Indonesia using Streamlit App with Linear Graph Forecasting," centers around the development of an interactive platform for visualizing food prices data in Indonesia. The Streamlit App is employed to create a user-friendly interface featuring linear graphs, enabling users to explore and interpret trends in food prices. The emphasis on linear graph forecasting enhances the application's capabilities by providing users with predictive insights into potential future price trajectories. Through this streamlined and focused visualization approach, the project aims to deliver a straightforward yet powerful tool for users to analyze and comprehend food price dynamics in Indonesia.
+          </details>
+        </td>
+        <td>
+          <details>
+            <summary>Skills</summary>
+              <ul>
+                <li>Data visualization using Streamlit App</li>
+                <li>Graphical representation of food prices data</li>
+                <li>Implementation of linear graphs for trend analysis</li>
+                <li>Forecasting using linear graph models</li>
+                <li>Data analysis and interpretation</li>
+                <li>User interface design for interactive exploration</li>
+                <li>Integration of forecasting capabilities into the Streamlit App</li>
+                <li>Understanding and processing food prices data</li>
+                <li>Effective communication of insights through visualizations</li>
+                <li>Application of statistical and forecasting concepts</li>
+              </ul>
           </details>
         </td>
       </tr>
