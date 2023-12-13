@@ -297,14 +297,8 @@ LLM Generated essays
   </details>
   
   <!-- Certification -->
-  <details open>
-    <summary> <h3> Certification </h3> </summary>
-    <p>Belum dibuat</p>
-    <ul>
-      <li><a href=""> Tes </a></li>
-    </ul>
-  </details>
-  <p><b><a href="#top">Back to top</a></b></p>
+  <h3>Certification</h3>
+  <p>I didn't make it here, but I have put a list of certifications I have obtained in my Linkedin. <a href="https://www.linkedin.com/in/muhammad-rizqi-921538248/details/certifications/">Here</a></p>
 </div>
 <hr>
 
