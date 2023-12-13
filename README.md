@@ -233,7 +233,7 @@ LLM Generated essays
 <!-- Skills i have achieved -->
 <div>
   <h2 id="skills"> Skills </h2> 
-  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Quis eleifend quam adipiscing vitae. Sollicitudin ac orci phasellus egestas tellus rutrum. Cursus sit amet dictum sit amet justo donec enim diam. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Sem nulla pharetra diam sit amet nisl. Ipsum dolor sit amet consectetur. Fermentum odio eu feugiat pretium. Convallis a cras semper auctor neque vitae. Nam aliquam sem et tortor consequat id porta nibh. Varius quam quisque id diam vel quam elementum pulvinar. Sagittis id  consectetur purus ut. Volutpat diam ut venenatis tellus in metus vulputate. Tincidunt dui ut ornare lectus. Enim nunc faucibus a pellentesque. Ultricies integer quis auctor elit sed vulputate. </p>
+  <p><i> Still under development </i></p>
   <p><b><a href="#top">Back to top</a></b></p>
 </div>
 <hr>
@@ -298,7 +298,7 @@ LLM Generated essays
   
   <!-- Certification -->
   <h3>Certification</h3>
-  <p>I didn't make it here, but I have put a list of certifications I have obtained in my Linkedin. <a href="https://www.linkedin.com/in/muhammad-rizqi-921538248/details/certifications/">Here</a></p>
+  <p>I didn't make it here, but I have put a list of certifications I have obtained in my Linkedin. <a href="https://www.linkedin.com/in/muhammad-rizqi-921538248/details/certifications/" target="_blank">Here</a></p>
 </div>
 <hr>
 
