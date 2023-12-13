@@ -328,32 +328,17 @@ LLM Generated essays
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
       </a>
     </center>
+    <h3> I also doing freelance: </h3>
+    <center>
+      <a href="https://www.upwork.com/freelancers/~012a438d12e60897d7?viewMode=1" target="_blank">
+        <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
+      </a>
+    </center>
   <p><b><a href="#top">Back to top</a></b></p>
 </div>
 <hr>
 
 <!-- Tes -->
 <p>Abaikan ini, cuman buat debug dan cek:</p>
-<table>
-  <thead>
-    <tr>
-      <th>Nama</th>
-      <th>Usia</th>
-      <th>Kota</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>John Doe</td>
-      <td>25</td>
-      <td>New York</td>
-    </tr>
-    <tr>
-      <td>Jane Smith</td>
-      <td>30</td>
-      <td>Los Angeles</td>
-    </tr>
-  </tbody>
-</table>
 
 
